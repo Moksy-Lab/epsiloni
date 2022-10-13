@@ -36,12 +36,12 @@ Contact us
 - [Uifaces](http://uifaces.com/)
 
 
-## Live site Preview 👁
+## Live site Preview 
 
 [Epsiloni](https://moksy.com/templates/epsiloni)
 
 
-## Github Preview 👁
+## Github Preview 
 [Epsiloni](https://moksy-lab.github.io/epsiloni/)
 
 
@@ -68,6 +68,6 @@ Contact us
 ## Do you want to contribute ? 
 Please just join as contributor 
 
-Made with love 💙💚💛💜🧡 by moksy lab 
+Made with love 🧡 by moksy lab 
 
 ## 🙏 Thank you 🙏
