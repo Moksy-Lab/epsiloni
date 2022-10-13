@@ -1,4 +1,7 @@
-# [moksy - Bootstrap 4 based template ](https://moksy.com)
+# [moksy - Free Professional e-Learning Templates
+
+## Short Into 
+Best free professional e-Learing themes to save you money and time. Our templates are built on top of Bootstrap, providing a range of responsive, reusable, well documented code. 
 
 ## License
 
@@ -12,3 +15,19 @@ moksy.com reserves the right to change the license of future releases.
 - [Pickaface](https://pickaface.net/)
 - [Unsplash](https://unsplash.com/)
 - [Uifaces](http://uifaces.com/)
+
+
+Live site Preview 
+## [Epsiloni](https://moksy.com/templates/epsiloni)
+
+
+Github Preview 
+[Epsiloni](https://moksy-lab.github.io/epsiloni/)
+
+
+Contact Details 
+Moksy 
+3-5 Marco polo house, Croydon, CR0 2BX
+
+Contact us 
+[Contact Us](https://moksy.com/contact-us.php)
