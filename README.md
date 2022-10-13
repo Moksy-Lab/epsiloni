@@ -39,7 +39,7 @@ Contact us
    Please do not forget to star the repo 
 
 ## Google Review 
-[Google Review]([https://moksy.com/contact-us.php](https://g.page/r/CWIjjM1wv6tFEB0/review))
+[Google Review](https://g.page/r/CWIjjM1wv6tFEB0/review)
 
 
 ## Do you want to contribute ? 
