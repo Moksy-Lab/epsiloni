@@ -27,9 +27,20 @@ moksy.com reserves the right to change the license of future releases.
 [Epsiloni](https://moksy-lab.github.io/epsiloni/)
 
 
-##Contact Details 
+## Need Help ? Contact us 
 Moksy 
 3-5 Marco polo house, Croydon, CR0 2BX
+support@moksy.com
 
 Contact us 
 [Contact Us](https://moksy.com/contact-us.php)
+
+## Like our project ? 
+   Please do not forget to star the repo 
+
+## Google Review 
+[Google Review]([https://moksy.com/contact-us.php](https://g.page/r/CWIjjM1wv6tFEB0/review))
+
+
+## Do you want to contribute ? 
+Please just join as contributor 
