@@ -23,7 +23,7 @@ moksy.com reserves the right to change the license of future releases.
 [Epsiloni](https://moksy.com/templates/epsiloni)
 
 
-##Github Preview 
+## Github Preview 
 [Epsiloni](https://moksy-lab.github.io/epsiloni/)
 
 
