@@ -1,10 +1,10 @@
-## Moksy
-Moksy - Free Professional e-Learning Templates
+## Moksy ✅
+Moksy - 💯% Free Professional e-Learning Templates
 
-## Short Into 
+## Short Into ✅
 Best free professional e-Learing themes to save you money and time. Our templates are built on top of Bootstrap, providing a range of responsive, reusable, well documented code. 
 
-## License
+## License ✅
 
 moksy is an open source project by [moksy.com](https://moksy.com) that is licensed under [MIT](https://opensource.org/licenses/MIT).
 moksy.com reserves the right to change the license of future releases.
@@ -12,16 +12,17 @@ moksy.com reserves the right to change the license of future releases.
 ## 🍺🍺🍺 Buy Us a beer🍺🍺🍺
 [Buy Us A Beer](https://www.paypal.com/donate/?hosted_button_id=Q279LEZ5BAWBY)
 
-All of our developer work for the community, and any help would be much appreciated 
+All of our developer 🙇🙇🙇 work for the community, and any help would be much appreciated 
 
 
-## Epsiloni
+## Epsiloni 
 Simple e-learning platform for school management business
 
-## Need Help ? Contact us 
+## Need Help ? Contact us 🙋🙋🙋
 Moksy 
 3-5 Marco polo house, Croydon, CR0 2BX
 support@moksy.com
+
 
 Contact us 
 [Contact Us](https://moksy.com/contact-us.php)
@@ -35,12 +36,12 @@ Contact us
 - [Uifaces](http://uifaces.com/)
 
 
-## Live site Preview 
+## Live site Preview 👁
 
 [Epsiloni](https://moksy.com/templates/epsiloni)
 
 
-## Github Preview 
+## Github Preview 👁
 [Epsiloni](https://moksy-lab.github.io/epsiloni/)
 
 
@@ -69,4 +70,4 @@ Please just join as contributor
 
 Made with love 💙💚💛💜🧡 by moksy lab 
 
-## Thank you 🙏
+## 🙏 Thank you 🙏
