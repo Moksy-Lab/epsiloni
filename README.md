@@ -15,6 +15,17 @@ moksy.com reserves the right to change the license of future releases.
 All of our developer work for the community, and any help would be much appreciated 
 
 
+## Epsiloni
+Simple e-learning platform for school management business
+
+## Need Help ? Contact us 
+Moksy 
+3-5 Marco polo house, Croydon, CR0 2BX
+support@moksy.com
+
+Contact us 
+[Contact Us](https://moksy.com/contact-us.php)
+
 ## Image Credits
 
 - [Pixeden](http://www.pixeden.com/psd-web-elements/flat-responsive-showcase-psd)
@@ -32,14 +43,6 @@ All of our developer work for the community, and any help would be much apprecia
 ## Github Preview 
 [Epsiloni](https://moksy-lab.github.io/epsiloni/)
 
-
-## Need Help ? Contact us 
-Moksy 
-3-5 Marco polo house, Croydon, CR0 2BX
-support@moksy.com
-
-Contact us 
-[Contact Us](https://moksy.com/contact-us.php)
 
 ## Like our project ? 
    Please do not forget to star the repo 
