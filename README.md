@@ -9,7 +9,7 @@ Best free professional e-Learing themes to save you money and time. Our template
 moksy is an open source project by [moksy.com](https://moksy.com) that is licensed under [MIT](https://opensource.org/licenses/MIT).
 moksy.com reserves the right to change the license of future releases.
 
-## Buy Us a beer 
+## 🍺🍺🍺 Buy Us a beer🍺🍺🍺
 [Buy Us A Beer](https://www.paypal.com/donate/?hosted_button_id=Q279LEZ5BAWBY)
 
 All of our developer work for the community, and any help would be much appreciated 
@@ -67,4 +67,6 @@ Contact us
 ## Do you want to contribute ? 
 Please just join as contributor 
 
+Made with love 💙💚💛💜🧡 by moksy lab 
 
+## Thank you 🙏
