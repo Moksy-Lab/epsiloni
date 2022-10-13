@@ -1,10 +1,10 @@
-## Moksy ✅
+## Moksy 
 Moksy - 💯% Free Professional e-Learning Templates
 
-## Short Into ✅
+## Short Into 
 Best free professional e-Learing themes to save you money and time. Our templates are built on top of Bootstrap, providing a range of responsive, reusable, well documented code. 
 
-## License ✅
+## License 
 
 moksy is an open source project by [moksy.com](https://moksy.com) that is licensed under [MIT](https://opensource.org/licenses/MIT).
 moksy.com reserves the right to change the license of future releases.
